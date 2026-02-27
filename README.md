@@ -2,7 +2,8 @@
 
 A modern, user-friendly task management application built with Python and CustomTkinter.
 
-## GITHUB LINK: https://github.com/begumde/todo-list
+## Original Repository
+https://github.com/begumde/todo-list
 
 ## Team Project
 This To-Do List application was developed collaboratively as a three-person team project during undergraduate Computer Engineering coursework at Konya Food and Agriculture University.
