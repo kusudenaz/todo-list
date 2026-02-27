@@ -79,4 +79,11 @@ python main.py
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
+## 👩‍💻 Team Project
+This To-Do List application was developed collaboratively as a three-person team project during undergraduate Computer Engineering coursework at Konya Food and Agriculture University.
+
+**Developers**
+- Eda Eylül Özdemir
+- Begüm Demir
+- Sudenaz Kuş
