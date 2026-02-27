@@ -37,7 +37,7 @@ This To-Do List application was developed collaboratively as a three-person team
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/kusudenaz/todo-list.git
 cd todo-list
 ```
 
